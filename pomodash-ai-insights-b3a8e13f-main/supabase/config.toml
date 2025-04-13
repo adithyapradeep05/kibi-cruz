@@ -1,0 +1,14 @@
+
+project_id = "lqkugoxbejemcwjfjuik"
+
+[functions]
+[functions.analyze-productivity]
+verify_jwt = true
+[functions.analyze-goal]
+verify_jwt = true
+[functions.analyze-task-progress]
+verify_jwt = true
+[functions.generate-weekly-reflection]
+verify_jwt = true
+[functions.send-weekly-reflection]
+verify_jwt = true
